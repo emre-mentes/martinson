@@ -11,4 +11,7 @@ public class MyClass {
     //emre branch version e1
     public String t = "bu emre branchinde olusturulmus but stringdir";
 
+    //emre branch version e2
+    public String r = "bu emre branchinde olusturulmus but stringdir";
+
 }
