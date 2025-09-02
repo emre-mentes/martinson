@@ -26,4 +26,8 @@ public class MyClass {
     // version 5
     public String sd = "tarabya string";
 
+
+    //emre branch version e5
+    public String string10 = "bu emre branchinde olusturulmus but stringdir";
+
 }
