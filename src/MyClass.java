@@ -20,4 +20,7 @@ public class MyClass {
     //emre branch version e3
     public String rsf = "bu emre branchinde olusturulmus bir stringdir";
 
+    //emre branch version e4
+    public String rfs = "bu emre branchinde olusturulmus but stringdir";
+
 }
