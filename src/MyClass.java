@@ -17,4 +17,7 @@ public class MyClass {
     // version 4
     public String s = "bu bambaskaaa bir string";
 
+    // version 5
+    public String sd = "tarabya string";
+
 }
