@@ -17,4 +17,7 @@ public class MyClass {
     // version 4
     public String s = "bu bambaskaaa bir string";
 
+    //emre branch version e3
+    public String rsf = "bu emre branchinde olusturulmus bir stringdir";
+
 }
