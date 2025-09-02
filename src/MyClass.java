@@ -30,4 +30,7 @@ public class MyClass {
     //emre branch version e5
     public String string10 = "bu emre branchinde olusturulmus but stringdir";
 
+
+    //conlflicht, v7
+    public String string11 = "fsdfmn njg nidg ";
 }
