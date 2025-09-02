@@ -8,5 +8,7 @@ public class MyClass {
     // version 3
     public String z = "bu bambaska bir string";
 
+    //emre branch version e1
+    public String t = "bu emre branchinde olusturulmus but stringdir";
 
 }
